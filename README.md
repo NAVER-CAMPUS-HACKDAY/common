@@ -1,2 +1,1 @@
-# common
-2019 NAVER CAMPUS HACKDAY WINTER 참가 주제 및 행사안내
+<img src="https://github.com/NAVER-CAMPUS-HACKDAY/common/blob/master/HDC19_온라인포스터(수정).png"/>
